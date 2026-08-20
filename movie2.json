@@ -1,0 +1,41 @@
+{
+  "Search": [
+    {
+      "Title": "The Shawshank Redemption",
+      "Year": "1994",
+      "imdbID": "tt0111161",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Hope Springs Eternal: A Look Back at 'The Shawshank Redemption'",
+      "Year": "2004",
+      "imdbID": "tt0443041",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "The Shawshank Redemption: Behind the Scenes",
+      "Year": "2004",
+      "imdbID": "tt5443386",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "The Shawshank Redemption (Scene)",
+      "Year": "2012",
+      "imdbID": "tt2477746",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "The Shawshank Redemption: Cast Interviews",
+      "Year": "2004",
+      "imdbID": "tt5443390",
+      "Type": "movie",
+      "Poster": "N/A"
+    }
+  ],
+  "totalResults": "5",
+  "Response": "True"
+}
